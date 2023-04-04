@@ -9,7 +9,7 @@
 <body>
     <img src="Jiya 2.png">
     <h1>Jiya Patel</h1>
-    <p><a href="C:\Users\HP\Desktop\moi\April_May\Web Developement Course\New folder\Contact Me.html">Contact Me</a> </p>
+    <p><a href="Contact Me.html">Contact Me</a> </p>
     <p><em><strong>Student at CP Goenka International School</strong></em></p>
     <hr>
     <p><em><strong>President of Interact Club of Happiness Ambernath for year 2022-23</strong></em></p>
