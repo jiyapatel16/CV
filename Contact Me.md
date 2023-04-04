@@ -13,7 +13,6 @@
         <label>Your Email id:</label>
         <input type="email" name="your email" value=""><br>
         <label>Your Message</label><br>
-        <textarea name="name" rows="10" cols="30"></textarea><br>
         <input type="submit" value="submit">
         </form>
 </body>
