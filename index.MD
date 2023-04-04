@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html>
 
 <head>
     <meta charset="UTF-8">
-    <title>Jiya's Personal Site</title>
+    
 </head>
 
 <body>
@@ -41,7 +41,7 @@
                 <th>Course</th>
             </tr>
         </thead>
-        <tbody align="center", cellspacing="10">
+        <tbody>
         <tr>
             <td>2023</td>
             <td>The Complete Python Pro Bootcamp for 2023 by Dr Angela Yu</td>
@@ -120,6 +120,3 @@
         </tr>
 
     
-</body>
-
-</html>
